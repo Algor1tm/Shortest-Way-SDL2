@@ -3,7 +3,7 @@ Illustrates Breadth First Search
 ![](pictures/picture.png)
 
 Hotkeys:
-"a": decrease interval between sqaures;
+"a": decrease interval between sqaures\n
 "d": increase interval between sqaures;
 "w": increase size of sqaures;
 "s": decrease size of sqaures;
