@@ -1,6 +1,7 @@
 # Shortest-Way-SDL2
 ## Illustrates Breadth First Search
-![](pictures/picture.png)
+
+![shortest](https://user-images.githubusercontent.com/68811145/167110053-2a7feae9-d031-4bf3-b354-7c12127d886d.png)
 
 **Hotkeys:**
 - "a": decrease interval between sqaures
