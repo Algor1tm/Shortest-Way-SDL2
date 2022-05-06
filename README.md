@@ -17,3 +17,8 @@
 - green, aqua, black: assign the color of your pencil(if you click twice will assign to white color)
 - white: clear all squares
 - pink: same as "space"
+
+How to run project
+-----------------------
+Solution is made for Visual Studio 2019.    
+You need to put SDl.dll from lib to folder Debug or Release(mode in what you compiling).
