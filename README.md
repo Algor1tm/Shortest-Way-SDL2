@@ -22,4 +22,4 @@
 How to run project
 -----------------------
 Solution is made for Visual Studio 2019.    
-You need to put SDl.dll from lib to folder Debug or Release(mode in what you compiling).
+You need to put SDl.dll from SDL\lib to folder Debug or Release(mode in what you compiling).
