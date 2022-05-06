@@ -155,19 +155,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Button.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="Menu.cpp" />
-    <ClCompile Include="Grid.cpp" />
-    <ClCompile Include="Program.cpp" />
+    <ClCompile Include="source\Button.cpp" />
+    <ClCompile Include="source\main.cpp" />
+    <ClCompile Include="source\Menu.cpp" />
+    <ClCompile Include="source\Grid.cpp" />
+    <ClCompile Include="source\Program.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Button.h" />
-    <ClInclude Include="MyColor.h" />
-    <ClInclude Include="Menu.h" />
-    <ClInclude Include="Program.h" />
-    <ClInclude Include="Grid.h" />
-    <ClInclude Include="Vector2i.h" />
+    <ClInclude Include="source\Button.h" />
+    <ClInclude Include="source\MyColor.h" />
+    <ClInclude Include="source\Menu.h" />
+    <ClInclude Include="source\Program.h" />
+    <ClInclude Include="source\Grid.h" />
+    <ClInclude Include="source\Vector2i.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
